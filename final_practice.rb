@@ -1,10 +1,10 @@
 # Defining Our Own Methods
 # 1: Write a method named greeting that prints out a general greeting to someone
 def greeting
-  p "Hello"
+   "Hello"
 end
 
-greeting
+p greeting
 
 
 
@@ -35,15 +35,15 @@ custom_greeting("Jeff")
 
 #3: Write a method named square that takes in one number, and returns the square of that number
 def square(num)
-  num ** 2
+  p num ** 2
 end
 
-p square(4)
+square(8)
 
 
 
 
-# What is the return value of your method? 16
+# What is the return value of your method? 64
 # How many arguments did you pass your method? 1
 # What data type was your argument(s)? integer
 
