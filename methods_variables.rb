@@ -7,13 +7,13 @@ city = "Dallas"
 
 
 #  call upcase on the variable, print it out
-p "Dallas".upcase
+p city.upcase
 #  call downcase on the variable, print it out
-p "Dallas".downcase
+p city.downcase
 #  call reverse on the variable, print it out
-p "Dallas".reverse
+p city.reverse
 #  call length on the variable, print it out
-p "Dallas".length
+p city.length
 
 
 
