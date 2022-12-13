@@ -52,7 +52,7 @@ square(8)
 
 #4: Write a method named greet_person that takes in 3 strings, a first, middle, and last name, and print outs the sentence of the entire string
 def greet_person(name1, name2, name3)
- p name1 + name2 + name3
+p "#{name1} #{name2} #{name3}"
 end
 
 greet_person("Jeff", "Brian", "Redish")
